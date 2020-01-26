@@ -1,0 +1,482 @@
+  [
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/10379980?v=4",
+        "name": "dandoh",
+        "url": "https://api.github.com/users/dandoh"
+      },
+      "createdAt": "2020-01-06T16:42:51Z",
+      "description": "Modern webserver in Haskell: Graphql + Postgresql + Authentication + DB migration + Dotenv and more",
+      "forks": 2,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIxNDMwNjg=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "web-haskell-graphql-postgres-boilerplate",
+      "stars": 53,
+      "url": "https://github.com/dandoh/web-haskell-graphql-postgres-boilerplate"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/49000?v=4",
+        "name": "gelisam",
+        "url": "https://api.github.com/users/gelisam"
+      },
+      "createdAt": "2020-01-01T19:12:04Z",
+      "description": "rewrite rules for type-level equalities",
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzEyNTM3NTA=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "typelevel-rewrite-rules",
+      "stars": 37,
+      "url": "https://github.com/gelisam/typelevel-rewrite-rules"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/18270328?v=4",
+        "name": "dnikolovv",
+        "url": "https://api.github.com/users/dnikolovv"
+      },
+      "createdAt": "2019-12-31T11:21:17Z",
+      "description": "An multiplayer web real-time implementation of the famous Tic Tac Toe game in Haskell.",
+      "forks": 4,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzEwNzcyMjA=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "haskell-tic-tac-toe",
+      "stars": 32,
+      "url": "https://github.com/dnikolovv/haskell-tic-tac-toe"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/20385259?v=4",
+        "name": "adjoint-io",
+        "url": "https://api.github.com/users/adjoint-io"
+      },
+      "createdAt": "2020-01-15T13:25:25Z",
+      "description": "Zero Knowledge Protocol",
+      "forks": 3,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQwODYwNjQ=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "zkp",
+      "stars": 30,
+      "url": "https://github.com/adjoint-io/zkp"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+        "name": "google",
+        "url": "https://api.github.com/users/google"
+      },
+      "createdAt": "2020-01-06T21:04:42Z",
+      "description": "Interactive development for Bazel/Haskell rules",
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIxODUyMzQ=",
+      "issues": 7,
+      "language": "Haskell",
+      "name": "hrepl",
+      "stars": 26,
+      "url": "https://github.com/google/hrepl"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/20261421?v=4",
+        "name": "bolt12",
+        "url": "https://api.github.com/users/bolt12"
+      },
+      "createdAt": "2020-01-09T15:03:53Z",
+      "description": "Linear Algebra of Programming - Algebraic Matrices in Haskell",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzI4MzUwMTE=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "laop",
+      "stars": 25,
+      "url": "https://github.com/bolt12/laop"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/11824260?v=4",
+        "name": "reflex-frp",
+        "url": "https://api.github.com/users/reflex-frp"
+      },
+      "createdAt": "2020-01-15T20:27:03Z",
+      "description": "  Run GHCi from within a reflex application and interact with it using a functional-reactive interface.",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQxNjY1NzY=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "reflex-ghci",
+      "stars": 23,
+      "url": "https://github.com/reflex-frp/reflex-ghci"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/1883862?v=4",
+        "name": "AndrasKovacs",
+        "url": "https://api.github.com/users/AndrasKovacs"
+      },
+      "createdAt": "2020-01-16T11:12:47Z",
+      "description": "Lambda normalization and conversion checking benchmarks for various implementations",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQzMDI3NzU=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "normalization-bench",
+      "stars": 22,
+      "url": "https://github.com/AndrasKovacs/normalization-bench"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/36929366?v=4",
+        "name": "paroxayte",
+        "url": "https://api.github.com/users/paroxayte"
+      },
+      "createdAt": "2019-12-21T21:03:02Z",
+      "description": "Backlight controller for Linux systems",
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMjk0ODI4NDQ=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "hbacklight",
+      "stars": 15,
+      "url": "https://github.com/paroxayte/hbacklight"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/3672?v=4",
+        "name": "blynn",
+        "url": "https://api.github.com/users/blynn"
+      },
+      "createdAt": "2019-12-21T06:32:11Z",
+      "description": "The adventures of a Haskell compiler",
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMjkzODc1MjM=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "compiler",
+      "stars": 11,
+      "url": "https://github.com/blynn/compiler"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/19562256?v=4",
+        "name": "clojurians-org",
+        "url": "https://api.github.com/users/clojurians-org"
+      },
+      "createdAt": "2019-12-26T02:36:14Z",
+      "description": "simplify linkedin datahub metadata platform",
+      "forks": 2,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzAxODE4OTQ=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "simple-datahub",
+      "stars": 11,
+      "url": "https://github.com/clojurians-org/simple-datahub"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/12164?v=4",
+        "name": "glguy",
+        "url": "https://api.github.com/users/glguy"
+      },
+      "createdAt": "2019-12-21T21:39:46Z",
+      "description": "Intocode interpreter for Advent of Code 2019",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMjk0ODYyOTc=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "intcode",
+      "stars": 8,
+      "url": "https://github.com/glguy/intcode"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/1216657?v=4",
+        "name": "mpickering",
+        "url": "https://api.github.com/users/mpickering"
+      },
+      "createdAt": "2020-01-19T22:06:34Z",
+      "description": "A LSP client where events are powered by fsnotify and diagnostics displayed in a simple terminal interface",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ5NzUxMDA=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "reflex-ghcide",
+      "stars": 8,
+      "url": "https://github.com/mpickering/reflex-ghcide"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/76703?v=4",
+        "name": "deech",
+        "url": "https://api.github.com/users/deech"
+      },
+      "createdAt": "2020-01-16T22:45:51Z",
+      "description": null,
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ0MjY0MDE=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "cabal-build-programs",
+      "stars": 7,
+      "url": "https://github.com/deech/cabal-build-programs"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/59278569?v=4",
+        "name": "e-wrks",
+        "url": "https://api.github.com/users/e-wrks"
+      },
+      "createdAt": "2020-01-15T03:42:37Z",
+      "description": "Đ (Edh) - The next-big-things ought to happen with Haskell not C/C++",
+      "forks": 3,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzM5OTIzODE=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "edh",
+      "stars": 7,
+      "url": "https://github.com/e-wrks/edh"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/26522501?v=4",
+        "name": "haskell-jp",
+        "url": "https://api.github.com/users/haskell-jp"
+      },
+      "createdAt": "2020-01-04T10:10:06Z",
+      "description": "遊び場",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzE3NDMwNjY=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "playground",
+      "stars": 7,
+      "url": "https://github.com/haskell-jp/playground"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/11824260?v=4",
+        "name": "reflex-frp",
+        "url": "https://api.github.com/users/reflex-frp"
+      },
+      "createdAt": "2020-01-10T19:37:46Z",
+      "description": "reflex-frp interface for running shell commands",
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzMxMTc3OTY=",
+      "issues": 2,
+      "language": "Haskell",
+      "name": "reflex-process",
+      "stars": 6,
+      "url": "https://github.com/reflex-frp/reflex-process"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/51087?v=4",
+        "name": "phadej",
+        "url": "https://api.github.com/users/phadej"
+      },
+      "createdAt": "2020-01-14T01:03:15Z",
+      "description": "Lite version of generic-lens",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzM3MjY1OTY=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "generic-lens-lite",
+      "stars": 5,
+      "url": "https://github.com/phadej/generic-lens-lite"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/2498?v=4",
+        "name": "patrickt",
+        "url": "https://api.github.com/users/patrickt"
+      },
+      "createdAt": "2020-01-06T23:09:19Z",
+      "description": "Brokered asynchronous communication with monad transformer stacks running out-of-band in another thread. Like Erlang actors, without the network.",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIyMDE2MTQ=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "fused-effects-broker",
+      "stars": 5,
+      "url": "https://github.com/patrickt/fused-effects-broker"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/478606?v=4",
+        "name": "Ptival",
+        "url": "https://api.github.com/users/Ptival"
+      },
+      "createdAt": "2020-01-17T19:56:22Z",
+      "description": null,
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ2MjU4Nzc=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "language-coq",
+      "stars": 5,
+      "url": "https://github.com/Ptival/language-coq"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/307223?v=4",
+        "name": "isovector",
+        "url": "https://api.github.com/users/isovector"
+      },
+      "createdAt": "2020-01-19T15:49:22Z",
+      "description": "the game i've wanted to exist for a decade",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ5MjQyNDg=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "nullification",
+      "stars": 4,
+      "url": "https://github.com/isovector/nullification"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/29957583?v=4",
+        "name": "plt-abigail",
+        "url": "https://api.github.com/users/plt-abigail"
+      },
+      "createdAt": "2020-01-18T05:17:02Z",
+      "description": "Rio Lazy ML - A spiritual successor to Chalmers Lazy ML.",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ2ODU1NzI=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "Rio",
+      "stars": 4,
+      "url": "https://github.com/plt-abigail/Rio"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/1642957?v=4",
+        "name": "Lupino",
+        "url": "https://api.github.com/users/Lupino"
+      },
+      "createdAt": "2019-12-27T01:13:17Z",
+      "description": "A hole to pass through the gateway. haskell version",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzAzNDk4OTM=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "haskell-hole",
+      "stars": 4,
+      "url": "https://github.com/Lupino/haskell-hole"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/23616816?v=4",
+        "name": "composewell",
+        "url": "https://api.github.com/users/composewell"
+      },
+      "createdAt": "2019-12-27T21:03:49Z",
+      "description": "A Plugin that tries to inline join points containing constructors of interest (Haskell)",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzA1MTgxMDY=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "fusion-plugin",
+      "stars": 4,
+      "url": "https://github.com/composewell/fusion-plugin"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/7310112?v=4",
+        "name": "parsonsmatt",
+        "url": "https://api.github.com/users/parsonsmatt"
+      },
+      "createdAt": "2019-12-21T16:49:31Z",
+      "description": "An application that helps cyclists track their gear",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMjk0NTY0MDM=",
+      "issues": 7,
+      "language": "Haskell",
+      "name": "gear-tracker",
+      "stars": 4,
+      "url": "https://github.com/parsonsmatt/gear-tracker"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars3.githubusercontent.com/u/11201122?v=4",
+        "name": "Pzixel",
+        "url": "https://api.github.com/users/Pzixel"
+      },
+      "createdAt": "2020-01-06T12:32:43Z",
+      "description": null,
+      "forks": 1,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIwOTY5NDk=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "haskell-operden",
+      "stars": 3,
+      "url": "https://github.com/Pzixel/haskell-operden"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars2.githubusercontent.com/u/187815?v=4",
+        "name": "mstksg",
+        "url": "https://api.github.com/users/mstksg"
+      },
+      "createdAt": "2020-01-18T21:26:25Z",
+      "description": "Piecewise-mutable references for product types",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ4MDAwNTc=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "mutable",
+      "stars": 3,
+      "url": "https://github.com/mstksg/mutable"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/21860?v=4",
+        "name": "konn",
+        "url": "https://api.github.com/users/konn"
+      },
+      "createdAt": "2019-12-30T06:31:22Z",
+      "description": "A utility package to work comfortably with foldl package",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzA4NjEyOTc=",
+      "issues": 0,
+      "language": "Haskell",
+      "name": "foldl-extras",
+      "stars": 3,
+      "url": "https://github.com/konn/foldl-extras"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars1.githubusercontent.com/u/60107249?v=4",
+        "name": "byteverse",
+        "url": "https://api.github.com/users/byteverse"
+      },
+      "createdAt": "2020-01-18T14:01:29Z",
+      "description": "Sets and Maps with 8-bit words as keys",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQ3NDMxMjQ=",
+      "issues": 2,
+      "language": "Haskell",
+      "name": "byte-containers",
+      "stars": 3,
+      "url": "https://github.com/byteverse/byte-containers"
+    },
+    {
+      "author": {
+        "avatar": "https://avatars0.githubusercontent.com/u/5332484?v=4",
+        "name": "andrewthad",
+        "url": "https://api.github.com/users/andrewthad"
+      },
+      "createdAt": "2020-01-06T16:28:02Z",
+      "description": "Universal hashing for byte sequences",
+      "forks": 0,
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIxNDAzOTQ=",
+      "issues": 1,
+      "language": "Haskell",
+      "name": "bytehash",
+      "stars": 3,
+      "url": "https://github.com/andrewthad/bytehash"
+    }
+  ]

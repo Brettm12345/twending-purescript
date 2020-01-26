@@ -1,0 +1,23 @@
+{
+  "name": "twending-purescript",
+  "version": "1.0.0",
+  "description": "A rewrite of twending but in purescript with halogen",
+  "repository": "brettm12345/twending-purescript",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html",
+    "tailwind": "tailwind build src/index.pcss -o src/index.css && tailwind-generator -l purescript --cssOutput src/index.css"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.19",
+    "pscid": "^2.8.5",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "serve": "^11.3.0",
+    "tailwindcss": "^1.1.4"
+  },
+  "devDependencies": {
+    "@scoville/tailwind-generator": "^0.3.0",
+    "parcel-bundler": "^1.12.1"
+  }
+}
